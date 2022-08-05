@@ -5,6 +5,7 @@
 //  Created by Maciej on 02/08/2022.
 //
 
+import CoreML
 import SwiftUI
 
 @main

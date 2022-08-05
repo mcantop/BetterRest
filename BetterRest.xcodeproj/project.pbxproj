@@ -11,6 +11,7 @@
 		52F1C6822899D5BA00F927BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F1C6812899D5BA00F927BF /* ContentView.swift */; };
 		52F1C6842899D5BB00F927BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F1C6832899D5BB00F927BF /* Assets.xcassets */; };
 		52F1C6872899D5BB00F927BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F1C6862899D5BB00F927BF /* Preview Assets.xcassets */; };
+		52F1C6902899DE8A00F927BF /* SleepCalculator.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 52F1C68F2899DE8A00F927BF /* SleepCalculator.mlpackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		52F1C6812899D5BA00F927BF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52F1C6832899D5BB00F927BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52F1C6862899D5BB00F927BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52F1C68F2899DE8A00F927BF /* SleepCalculator.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = SleepCalculator.mlpackage; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		52F1C67E2899D5BA00F927BF /* BetterRest */ = {
 			isa = PBXGroup;
 			children = (
+				52F1C68F2899DE8A00F927BF /* SleepCalculator.mlpackage */,
 				52F1C67F2899D5BA00F927BF /* BetterRestApp.swift */,
 				52F1C6812899D5BA00F927BF /* ContentView.swift */,
 				52F1C6832899D5BB00F927BF /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52F1C6822899D5BA00F927BF /* ContentView.swift in Sources */,
+				52F1C6902899DE8A00F927BF /* SleepCalculator.mlpackage in Sources */,
 				52F1C6802899D5BA00F927BF /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
